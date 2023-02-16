@@ -42,6 +42,7 @@ Disc
 Dispenser
 Dropper
 Dye
+Eichenholztuer
 Elytra
 Enchanting
 Ender
